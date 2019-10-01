@@ -1,6 +1,6 @@
 ### OMR (Optical Music Recognition)
 
-Optical music recognition tool implemented for the course 'Digital Image Processing', Telecommunications Engineering, 4th year, Universidad de Granada (España).
+Optical music recognition tool developed and implemented for the course 'Digital Image Processing', Telecommunications Engineering, 4th year, Universidad de Granada (España).
 
 ***
 
